@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 
 <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=Marianarosadev&show_icons=true&theme=merko"></img>
 
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marianarosadev&layout=compact&theme=merko"></img>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mariana-rosa-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
